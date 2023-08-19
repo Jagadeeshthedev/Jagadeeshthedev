@@ -25,18 +25,12 @@
 ###
 
 <div align="left">
-  <a href="vaddepallyjagadeesh@gmail.com" target="_blank">
+  <a href="mailto:vaddepallyjagadeesh@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/vaddepalli-jagadeesh-j219" target="_blank">
+  <a href="www.linkedin.com/in/vaddepalli-jagadeesh-j219">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=Jagadeeshthedev" alt="Layout with last medium posts"  />
 </div>
 
 ###
