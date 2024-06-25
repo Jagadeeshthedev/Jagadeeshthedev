@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jagadeesh Vaddepalli and I'm a Software Engineer, from Felixsolutions.ai</h2>
+<h2 align="left">Hi 👋! My name is Jagadeesh Vaddepalli and I'm a Software Engineer at Felixsolutions.AI</h2>
 
 ###
 
